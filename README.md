@@ -42,7 +42,7 @@ First line are the constraints for each columns and second are for the rows.
 Now, run the script.
 
 ```
-python rullo_solver
+python rullo_solver.py
 ```
 You'll be asked to type the filename for both the puzzle matrix and the constraints. Leaving the prompts blank will default to the filenames used for the example above. 
 
