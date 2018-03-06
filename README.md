@@ -18,13 +18,12 @@ You'll need a puzzle from the Android game [Rullo](https://play.google.com/store
 
 Something like this:
 
-![Rullo Screenshot](rullo_example.png)
+![Rullo Screenshot](rullo_example.png )
 
 You'll need to create to text files.
 
 1. One with the puzzle matrix. (rullo_matrix.txt)
-
-	```
+```
 7 7 5 7 2
 2 3 1 9 7
 6 5 9 2 2
@@ -35,7 +34,7 @@ You'll need to create to text files.
 2. The column and row constraints. (rullo_constraints.txt)
 First line are the constraints for each columns and second are for the rows.
 
-	```
+```
 19 11 14 11 11 
 23 3 19 13 8	
 ```
